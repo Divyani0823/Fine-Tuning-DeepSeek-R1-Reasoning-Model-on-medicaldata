@@ -6,15 +6,7 @@ This project focuses on fine-tuning the **DeepSeek-R1-Distill-Llama-8B** model f
 
 ---
 
-## Project Structure
 
-- **fine-tuning-deepseek-r1-reasoning-model.ipynb** – Jupyter Notebook containing the complete fine-tuning process.
-- **data/** – Directory containing training and evaluation datasets.
-- **models/** – Directory for pre-trained and fine-tuned models.
-- **results/** – Stores model performance metrics and logs.
-- **README.md** – Documentation of the project.
-
----
 
 ## Installation & Setup
 
@@ -63,26 +55,11 @@ After fine-tuning, the model:
 
 Performance metrics and evaluation results are stored in the `results/` directory.
 
----
 
-## Future Enhancements
 
-### Potential Improvements:
 
-- Experimenting with different hyperparameters for better optimization.
-- Expanding the dataset for more diverse medical cases.
-- Integrating Explainable AI (XAI) techniques for greater interpretability.
-- Deploying the model as a medical reasoning assistant.
 
----
 
-## Contributors
-
-- **[Your Name]** – Developer and Researcher
-
-If you wish to contribute, feel free to submit pull requests or open issues.
-
----
 
 ## License
 
@@ -90,14 +67,3 @@ This project is licensed under the **MIT License**.
 
 ---
 
-## Acknowledgments
-
-Special thanks to:
-
-- **Hugging Face** for providing pre-trained models.
-- **Unsloth** for optimizing Llama-based models.
-- **Weights & Biases (W&B)** for model tracking and evaluation.
-
----
-
-For any inquiries or support, feel free to reach out. 🚀
